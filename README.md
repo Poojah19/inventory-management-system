@@ -104,22 +104,41 @@ Invoices
 
 # 📁 Project Structure
 
-inventory-management-system
+## 📁 Project Structure
+
+```
+inventory-management-system/
 │
-├── billing
-├── templates
-├── static
-├── screenshots
-├── documentation
+├── accounts/                # User authentication
+├── billing/                 # Invoice management
+├── inventory/               # Product management
+│
+├── templates/               # HTML templates
+│   ├── accounts/
+│   ├── billing/
+│   └── inventory/
+│
+├── static/                  # CSS, JavaScript, images
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── screenshots/             # Application screenshots
+│   ├── dashboard.png
+│   ├── inventory.png
+│   └── invoice.png
+│
+├── documentation/           # Project documentation
+│   ├── API.md
 │   ├── SRS.md
 │   ├── SDS.md
-│   ├── API.md
 │   └── TestPlan.md
 │
-├── manage.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── manage.py                # Django project runner
+├── requirements.txt         # Python dependencies
+├── .gitignore               # Ignored files
+└── README.md                # Project documentation
+```
 
 ---
 
