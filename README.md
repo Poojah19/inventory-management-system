@@ -184,7 +184,7 @@ http://127.0.0.1:8000
 
 ## Application Screenshots
 
-[Login](screenshots/login.png)
+![Login](screenshots/login.png)
 
 ![Dashboard](screenshots/dashboard.png)
 
