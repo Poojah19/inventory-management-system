@@ -184,10 +184,16 @@ http://127.0.0.1:8000
 
 ## Application Screenshots
 
-<!-- ![Login](screenshots/login.png) -->
+[Login](screenshots/login.png)
 
 ![Dashboard](screenshots/dashboard.png)
 
 ![Inventory](screenshots/inventory.png)
 
+![Generate Bill](screenshots/generate_bill.png)
+
 ![Invoice](screenshots/invoice.png)
+
+![Bill](screenshots/bill.png)
+
+![Admin](screenshots/admin.png)
