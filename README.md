@@ -189,7 +189,7 @@ http://127.0.0.1:8000
 
 ![Inventory](screenshots/inventory.png)
 
-![Generate_Bill](screenshots/generate_bill.png)
+![Generate_Bill](screenshots/generate_invoice.png)
 
 ![Invoice](screenshots/invoice.png)
 
