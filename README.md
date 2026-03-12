@@ -1,4 +1,4 @@
-# 📦 Inventory & Billing Management System
+# 🧾 Inventory & Billing Management System
 
 A full-stack web application built using Python and Django that helps businesses manage their inventory and billing processes efficiently.
 
@@ -104,7 +104,6 @@ Invoices
 
 # 📁 Project Structure
 
-## 📁 Project Structure
 
 ```
 inventory-management-system/
@@ -190,7 +189,7 @@ http://127.0.0.1:8000
 
 ![Inventory](screenshots/inventory.png)
 
-![Generate Bill](screenshots/generate_bill.png)
+![Generate_Bill](screenshots/generate_bill.png)
 
 ![Invoice](screenshots/invoice.png)
 
